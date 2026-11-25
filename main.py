@@ -7,8 +7,8 @@ into excess factory capacity (Asian markets tumble), Shanghai party chief
 Chen Jining under investigation, a US jury convicting Huawei of stealing
 trade secrets, a second Houthi strike on Riyadh's tallest tower, and
 Nvidia's Jensen Huang apologising to staff as the comeback rally fades —
-plus Shenzhou-24, the Colombia supermarket hostages and the Thanksgiving
-turkey pardon.
+plus Shenzhou-24, the Colombia supermarket hostages and Shein's $100m FTC
+settlement.
 
 Standard library only. No network. Deterministic: the output bytes are an
 exact copy of the shipped image, so two runs write identical bytes.
